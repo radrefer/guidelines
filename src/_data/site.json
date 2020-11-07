@@ -1,9 +1,9 @@
 {
     "title": "Radrefer",
     "strapline" : "The open source alternative to The Royal College of Radiologists iRefer with a free and open API" ,
-    "baseUrl": "https://yourURL.com/",
-    "twitter": "danfascia",
-    "description": "A minimal 11ty base starter structure and a few helpful functions",
+    "baseUrl": "https://radrefer.github.io/",
+    "twitter": "",
+    "description": "",
     "favicon" : "images/favicon.png",
     "featuredImage" : "",
     
